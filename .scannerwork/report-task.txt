@@ -1,0 +1,6 @@
+organization=hanane0805
+projectKey=Hanane0805_-credit-quality
+serverUrl=https://sonarcloud.io
+dashboardUrl=https://sonarcloud.io/dashboard?id=Hanane0805_-credit-quality
+ceTaskId=AaHvGg7Yfu8KYxMP_rl2
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaHvGg7Yfu8KYxMP_rl2

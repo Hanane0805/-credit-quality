@@ -8,6 +8,7 @@ def calculate_risk(income, debt, age):
     if ratio > 0.6:
         return "HIGH"
     elif ratio > 0.3:
+
         return "MEDIUM"
     else:
         return "LOW"
